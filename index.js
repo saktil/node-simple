@@ -12,5 +12,5 @@ const server = app.listen(port, () => {
     });
 
 module.exports = app;
-© 2022 GitHub, Inc.
-Terms
+
+
